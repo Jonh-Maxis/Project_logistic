@@ -1,0 +1,12 @@
+# 1. Ignorar el entorno virtual
+/venv/
+
+# 2. Ignorar TODOS los datos.
+/data/
+
+# 3. Ignorar archivos de caché de Python
+__pycache__/
+*.pyc
+
+# 4. Ignorar archivos de configuración del editor 
+.vscode/
