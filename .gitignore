@@ -10,3 +10,7 @@ __pycache__/
 
 # 4. Ignorar archivos de configuración del editor 
 .vscode/
+
+# 5. Ignorar database
+
+warehouse.db
