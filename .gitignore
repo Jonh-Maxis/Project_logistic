@@ -12,5 +12,4 @@ __pycache__/
 .vscode/
 
 # 5. Ignorar database
-
 warehouse.db
